@@ -1,5 +1,6 @@
 .container {
   padding: 0 2rem;
+  
 }
 
 .main {
@@ -16,10 +17,10 @@
   display: flex;
   flex: 1;
   padding: 2rem 0;
-  border-top: 1px solid #000000;
+  border-top: 1px solid #ffffff;
   justify-content: center;
   align-items: center;
-  background-color: #000000;
+  
 }
 
 
@@ -91,6 +92,7 @@
 .card h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
+  color: white;
 }
 
 .card p {
